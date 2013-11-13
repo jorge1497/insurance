@@ -1,0 +1,115 @@
+Gender,Age,Coverage,Stat,Geography,GEO.display-label,"Bloomfield town, Hartford County, Connecticut","East Hartford town, Hartford County, Connecticut","Enfield town, Hartford County, Connecticut","Farmington town, Hartford County, Connecticut","Glastonbury town, Hartford County, Connecticut","Hartford town, Hartford County, Connecticut","Manchester town, Hartford County, Connecticut","Newington town, Hartford County, Connecticut","Simsbury town, Hartford County, Connecticut","South Windsor town, Hartford County, Connecticut","West Hartford town, Hartford County, Connecticut","Wethersfield town, Hartford County, Connecticut","Windsor town, Hartford County, Connecticut","Vernon town, Tolland County, Connecticut"
+All,All,All,Estimate,Estimate; Total:,HD01_VD01,20067,50783,40606,25073,34130,122550,57583,30185,23289,25613,62191,26414,28683,28881
+All,All,All,Margin of Error,Margin of Error; Total:,HD02_VD01,213,258,639,119,143,449,156,188,164,105,253,185,140,196
+Male,All,All,Estimate,Estimate; Male:,HD01_VD02,8913,24240,19503,12185,16639,58385,28276,13734,11490,13075,28663,12629,13638,14254
+Male,All,All,Margin of Error,Margin of Error; Male:,HD02_VD02,452,714,767,467,634,1270,865,476,376,537,745,542,465,565
+Male,Under 6 years,All,Estimate,Estimate; Male: - Under 6 years:,HD01_VD03,400,1831,1228,754,1206,6170,2513,750,684,926,1905,745,801,839
+Male,Under 6 years,All,Margin of Error,Margin of Error; Male: - Under 6 years:,HD02_VD03,214,436,288,184,279,620,554,196,191,299,338,215,268,232
+Male,Under 6 years,With health insurance coverage,Estimate,Estimate; Male: - Under 6 years: - With health insurance coverage,HD01_VD04,400,1772,1228,754,1206,5837,2501,738,684,926,1870,745,754,839
+Male,Under 6 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - Under 6 years: - With health insurance coverage,HD02_VD04,214,439,288,184,279,603,559,192,191,299,330,215,270,232
+Male,Under 6 years,No health insurance coverage,Estimate,Estimate; Male: - Under 6 years: - No health insurance coverage,HD01_VD05,0,59,0,0,0,333,12,12,0,0,35,0,47,0
+Male,Under 6 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - Under 6 years: - No health insurance coverage,HD02_VD05,118,49,118,118,118,256,19,20,118,118,40,118,57,118
+Male,6 to 17 years,All,Estimate,Estimate; Male: - 6 to 17 years:,HD01_VD06,1319,3780,2980,2362,3579,11197,4096,1944,2661,2732,5065,2129,2321,1766
+Male,6 to 17 years,All,Margin of Error,Margin of Error; Male: - 6 to 17 years:,HD02_VD06,259,494,496,437,381,748,562,293,361,453,444,393,424,330
+Male,6 to 17 years,With health insurance coverage,Estimate,Estimate; Male: - 6 to 17 years: - With health insurance coverage,HD01_VD07,1229,3729,2765,2362,3579,10472,3917,1883,2592,2732,4956,2080,2210,1672
+Male,6 to 17 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - 6 to 17 years: - With health insurance coverage,HD02_VD07,247,495,446,437,381,798,553,287,366,453,447,379,413,315
+Male,6 to 17 years,No health insurance coverage,Estimate,Estimate; Male: - 6 to 17 years: - No health insurance coverage,HD01_VD08,90,51,215,0,0,725,179,61,69,0,109,49,111,94
+Male,6 to 17 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - 6 to 17 years: - No health insurance coverage,HD02_VD08,67,60,284,118,118,255,133,55,56,118,83,52,114,119
+Male,18 to 24 years,All,Estimate,Estimate; Male: - 18 to 24 years:,HD01_VD09,751,2652,1479,1028,1002,9236,2894,987,631,1250,1991,578,1235,1351
+Male,18 to 24 years,All,Margin of Error,Margin of Error; Male: - 18 to 24 years:,HD02_VD09,295,517,314,364,344,893,424,247,155,245,399,241,320,374
+Male,18 to 24 years,With health insurance coverage,Estimate,Estimate; Male: - 18 to 24 years: - With health insurance coverage,HD01_VD10,614,1734,1230,964,937,6301,2033,741,631,1086,1628,530,1119,981
+Male,18 to 24 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - 18 to 24 years: - With health insurance coverage,HD02_VD10,258,471,299,364,348,769,385,187,155,249,352,230,295,324
+Male,18 to 24 years,No health insurance coverage,Estimate,Estimate; Male: - 18 to 24 years: - No health insurance coverage,HD01_VD11,137,918,249,64,65,2935,861,246,0,164,363,48,116,370
+Male,18 to 24 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - 18 to 24 years: - No health insurance coverage,HD02_VD11,112,318,127,60,73,532,282,182,118,143,207,55,84,205
+Male,25  - 34 years,All,Estimate,Estimate; Male: - 25 to 34 years:,HD01_VD12,787,3927,2317,950,752,8717,4400,1786,975,1025,3768,1572,1544,2369
+Male,25  - 34 years,All,Margin of Error,Margin of Error; Male: - 25 to 34 years:,HD02_VD12,261,543,481,227,240,788,560,321,215,279,586,322,349,396
+Male,25  - 34 years,With health insurance coverage,Estimate,Estimate; Male: - 25 to 34 years: - With health insurance coverage,HD01_VD13,547,3056,1970,907,648,4986,3530,1503,855,978,3071,1288,1374,1580
+Male,25  - 34 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - 25 to 34 years: - With health insurance coverage,HD02_VD13,218,421,371,221,217,692,536,296,221,286,442,269,334,373
+Male,25  - 34 years,No health insurance coverage,Estimate,Estimate; Male: - 25 to 34 years: - No health insurance coverage,HD01_VD14,240,871,347,43,104,3731,870,283,120,47,697,284,170,789
+Male,25  - 34 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - 25 to 34 years: - No health insurance coverage,HD02_VD14,181,359,250,51,99,706,343,136,90,74,276,153,119,362
+Male,35 - 44 years,All,Estimate,Estimate; Male: - 35 to 44 years:,HD01_VD15,1103,3221,2667,1654,2541,6689,4088,1929,1378,1613,3620,1850,1624,2118
+Male,35 - 44 years,All,Margin of Error,Margin of Error; Male: - 35 to 44 years:,HD02_VD15,290,495,329,246,230,646,562,253,206,217,396,300,239,361
+Male,35 - 44 years,With health insurance coverage,Estimate,Estimate; Male: - 35 to 44 years: - With health insurance coverage,HD01_VD16,969,2677,2246,1551,2480,4537,3547,1690,1288,1545,3306,1652,1410,1797
+Male,35 - 44 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - 35 to 44 years: - With health insurance coverage,HD02_VD16,255,468,327,247,224,580,501,213,200,198,326,265,260,377
+Male,35 - 44 years,No health insurance coverage,Estimate,Estimate; Male: - 35 to 44 years: - No health insurance coverage,HD01_VD17,134,544,421,103,61,2152,541,239,90,68,314,198,214,321
+Male,35 - 44 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - 35 to 44 years: - No health insurance coverage,HD02_VD17,138,262,237,97,57,484,241,150,57,67,204,163,160,178
+Male,45 - 54 years,All,Estimate,Estimate; Male: - 45 to 54 years:,HD01_VD18,1543,3243,3621,1946,3359,6761,4015,2273,2320,2336,4815,2124,2186,1850
+Male,45 - 54 years,All,Margin of Error,Margin of Error; Male: - 45 to 54 years:,HD02_VD18,283,453,352,205,321,559,491,274,247,328,538,253,285,308
+Male,45 - 54 years,With health insurance coverage,Estimate,Estimate; Male: - 45 to 54 years: - With health insurance coverage,HD01_VD19,1170,2684,3367,1811,3120,4729,3605,2098,2177,2243,4528,1880,1952,1821
+Male,45 - 54 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - 45 to 54 years: - With health insurance coverage,HD02_VD19,250,447,349,221,310,457,489,274,249,326,487,250,273,303
+Male,45 - 54 years,No health insurance coverage,Estimate,Estimate; Male: - 45 to 54 years: - No health insurance coverage,HD01_VD20,373,559,254,135,239,2032,410,175,143,93,287,244,234,29
+Male,45 - 54 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - 45 to 54 years: - No health insurance coverage,HD02_VD20,186,233,144,132,139,414,190,134,119,73,145,148,128,46
+Male,55 - 64 years,All,Estimate,Estimate; Male: - 55 to 64 years:,HD01_VD21,1132,3065,2326,1802,2256,5124,2988,1950,1453,1581,3517,1476,1994,1933
+Male,55 - 64 years,All,Margin of Error,Margin of Error; Male: - 55 to 64 years:,HD02_VD21,196,433,336,216,410,589,418,246,279,271,446,230,237,248
+Male,55 - 64 years,With health insurance coverage,Estimate,Estimate; Male: - 55 to 64 years: - With health insurance coverage,HD01_VD22,1070,2858,2252,1765,2182,4315,2782,1778,1401,1489,3318,1476,1894,1893
+Male,55 - 64 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - 55 to 64 years: - With health insurance coverage,HD02_VD22,199,412,327,224,408,480,388,228,280,271,460,230,244,248
+Male,55 - 64 years,No health insurance coverage,Estimate,Estimate; Male: - 55 to 64 years: - No health insurance coverage,HD01_VD23,62,207,74,37,74,809,206,172,52,92,199,0,100,40
+Male,55 - 64 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - 55 to 64 years: - No health insurance coverage,HD02_VD23,63,139,54,51,72,298,116,122,49,108,136,118,80,47
+Male,65 - 74 years,All,Estimate,Estimate; Male: - 65 to 74 years:,HD01_VD24,994,1265,1758,1064,1164,2925,1603,1178,898,970,1781,1106,1047,1191
+Male,65 - 74 years,All,Margin of Error,Margin of Error; Male: - 65 to 74 years:,HD02_VD24,225,274,221,229,190,314,255,221,163,182,310,232,224,267
+Male,65 - 74 years,With health insurance coverage,Estimate,Estimate; Male: - 65 to 74 years: - With health insurance coverage,HD01_VD25,972,1265,1758,1064,1164,2862,1521,1178,898,970,1781,1106,1047,1176
+Male,65 - 74 years,With health insurance coverage,Margin of Error,Margin of Error; Male: - 65 to 74 years: - With health insurance coverage,HD02_VD25,215,274,221,229,190,339,242,221,163,182,310,232,224,263
+Male,65 - 74 years,No health insurance coverage,Estimate,Estimate; Male: - 65 to 74 years: - No health insurance coverage,HD01_VD26,22,0,0,0,0,63,82,0,0,0,0,0,0,15
+Male,65 - 74 years,No health insurance coverage,Margin of Error,Margin of Error; Male: - 65 to 74 years: - No health insurance coverage,HD02_VD26,39,118,118,118,118,81,103,118,118,118,118,118,118,25
+Male,75 years and over,All,Estimate,Estimate; Male: - 75 years and over:,HD01_VD27,884,1256,1127,625,780,1566,1679,937,490,642,2201,1049,886,837
+Male,75 years and over,All,Margin of Error,Margin of Error; Male: - 75 years and over:,HD02_VD27,188,214,235,168,197,247,278,179,151,173,272,200,173,181
+Male,75 years and over,With health insurance coverage,Estimate,Estimate; Male: - 75 years and over: - With health insurance coverage,HD01_VD28,884,1256,1127,625,780,1550,1679,937,490,642,2179,1049,851,837
+Male,75 years and over,With health insurance coverage,Margin of Error,Margin of Error; Male: - 75 years and over: - With health insurance coverage,HD02_VD28,188,214,235,168,197,249,278,179,151,173,272,200,173,181
+Male,75 years and over,No health insurance coverage,Estimate,Estimate; Male: - 75 years and over: - No health insurance coverage,HD01_VD29,0,0,0,0,0,16,0,0,0,0,22,0,35,0
+Male,75 years and over,No health insurance coverage,Margin of Error,Margin of Error; Male: - 75 years and over: - No health insurance coverage,HD02_VD29,118,118,118,118,118,24,118,118,118,118,36,118,38,118
+Female,All,All,Estimate,Estimate; Female:,HD01_VD30,11154,26543,21103,12888,17491,64165,29307,16451,11799,12538,33528,13785,15045,14627
+Female,All,All,Margin of Error,Margin of Error; Female:,HD02_VD30,467,722,704,460,640,1212,842,546,393,524,706,552,446,602
+Female,Under 6 years,All,Estimate,Estimate; Female: - Under 6 years:,HD01_VD31,285,1753,1239,674,1114,4673,2623,1182,784,609,2330,862,982,726
+Female,Under 6 years,All,Margin of Error,Margin of Error; Female: - Under 6 years:,HD02_VD31,154,364,294,268,263,550,462,345,184,209,332,192,264,216
+Female,Under 6 years,With health insurance coverage,Estimate,Estimate; Female: - Under 6 years: - With health insurance coverage,HD01_VD32,285,1641,1173,674,1114,4468,2542,1161,784,609,2261,862,978,726
+Female,Under 6 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - Under 6 years: - With health insurance coverage,HD02_VD32,154,342,276,268,263,542,450,345,184,209,335,192,265,216
+Female,Under 6 years,No health insurance coverage,Estimate,Estimate; Female: - Under 6 years: - No health insurance coverage,HD01_VD33,0,112,66,0,0,205,81,21,0,0,69,0,4,0
+Female,Under 6 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - Under 6 years: - No health insurance coverage,HD02_VD33,118,113,83,118,118,127,111,34,118,118,62,118,7,118
+Female,6 to 17 years,All,Estimate,Estimate; Female: - 6 to 17 years:,HD01_VD34,1356,3983,2969,1887,3179,10972,3173,2078,2283,2115,5085,1883,2225,1663
+Female,6 to 17 years,All,Margin of Error,Margin of Error; Female: - 6 to 17 years:,HD02_VD34,323,573,405,351,386,765,549,364,298,437,475,389,394,335
+Female,6 to 17 years,With health insurance coverage,Estimate,Estimate; Female: - 6 to 17 years: - With health insurance coverage,HD01_VD35,1267,3810,2923,1869,3111,10213,3034,2033,2266,2074,4922,1837,2144,1582
+Female,6 to 17 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - 6 to 17 years: - With health insurance coverage,HD02_VD35,295,553,405,350,372,869,566,358,298,438,475,379,378,326
+Female,6 to 17 years,No health insurance coverage,Estimate,Estimate; Female: - 6 to 17 years: - No health insurance coverage,HD01_VD36,89,173,46,18,68,759,139,45,17,41,163,46,81,81
+Female,6 to 17 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - 6 to 17 years: - No health insurance coverage,HD02_VD36,85,165,52,30,109,324,110,53,26,47,114,71,96,120
+Female,18 to 24 years,All,Estimate,Estimate; Female: - 18 to 24 years:,HD01_VD37,902,2090,1500,667,787,9533,2771,946,473,631,2410,781,1680,1286
+Female,18 to 24 years,All,Margin of Error,Margin of Error; Female: - 18 to 24 years:,HD02_VD37,259,392,332,161,214,702,500,285,137,210,311,182,267,419
+Female,18 to 24 years,With health insurance coverage,Estimate,Estimate; Female: - 18 to 24 years: - With health insurance coverage,HD01_VD38,902,1621,1325,630,510,7957,2168,873,435,608,2167,741,1484,1128
+Female,18 to 24 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - 18 to 24 years: - With health insurance coverage,HD02_VD38,259,340,324,168,158,661,376,275,135,204,325,187,289,388
+Female,18 to 24 years,No health insurance coverage,Estimate,Estimate; Female: - 18 to 24 years: - No health insurance coverage,HD01_VD39,0,469,175,37,277,1576,603,73,38,23,243,40,196,158
+Female,18 to 24 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - 18 to 24 years: - No health insurance coverage,HD02_VD39,118,222,107,44,165,339,264,70,40,36,124,43,141,126
+Female,25  - 34 years,All,Estimate,Estimate; Female: - 25 to 34 years:,HD01_VD40,1256,4128,2732,1306,1546,10034,4762,1734,883,1179,3705,1226,1450,2210
+Female,25  - 34 years,All,Margin of Error,Margin of Error; Female: - 25 to 34 years:,HD02_VD40,340,612,416,295,383,807,535,282,204,391,514,253,331,428
+Female,25  - 34 years,With health insurance coverage,Estimate,Estimate; Female: - 25 to 34 years: - With health insurance coverage,HD01_VD41,1027,3555,2368,1258,1407,7853,4475,1655,848,1079,3406,1172,1388,1920
+Female,25  - 34 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - 25 to 34 years: - With health insurance coverage,HD02_VD41,271,632,397,296,378,759,548,283,202,365,494,250,320,402
+Female,25  - 34 years,No health insurance coverage,Estimate,Estimate; Female: - 25 to 34 years: - No health insurance coverage,HD01_VD42,229,573,364,48,139,2181,287,79,35,100,299,54,62,290
+Female,25  - 34 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - 25 to 34 years: - No health insurance coverage,HD02_VD42,139,204,200,45,103,428,149,72,41,135,171,51,68,219
+Female,35 - 44 years,All,Estimate,Estimate; Female: - 35 to 44 years:,HD01_VD43,1015,3151,2725,2059,2445,8765,3720,2188,1609,1890,4388,1775,1777,1834
+Female,35 - 44 years,All,Margin of Error,Margin of Error; Female: - 35 to 44 years:,HD02_VD43,243,465,305,280,257,550,455,236,193,206,369,238,248,348
+Female,35 - 44 years,With health insurance coverage,Estimate,Estimate; Female: - 35 to 44 years: - With health insurance coverage,HD01_VD44,931,2881,2487,2010,2385,7135,3330,2056,1541,1819,4246,1635,1621,1785
+Female,35 - 44 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - 35 to 44 years: - With health insurance coverage,HD02_VD44,215,448,283,281,243,547,449,225,194,203,364,238,243,352
+Female,35 - 44 years,No health insurance coverage,Estimate,Estimate; Female: - 35 to 44 years: - No health insurance coverage,HD01_VD45,84,270,238,49,60,1630,390,132,68,71,142,140,156,49
+Female,35 - 44 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - 35 to 44 years: - No health insurance coverage,HD02_VD45,76,162,173,56,96,325,203,104,54,68,85,83,109,41
+Female,45 - 54 years,All,Estimate,Estimate; Female: - 45 to 54 years:,HD01_VD46,2143,4659,3786,1980,3185,7327,4387,2461,2344,2441,5085,2216,2275,2219
+Female,45 - 54 years,All,Margin of Error,Margin of Error; Female: - 45 to 54 years:,HD02_VD46,292,491,398,266,323,618,530,299,251,295,361,325,358,279
+Female,45 - 54 years,With health insurance coverage,Estimate,Estimate; Female: - 45 to 54 years: - With health insurance coverage,HD01_VD47,2046,4094,3578,1897,2988,5682,3999,2326,2312,2321,4941,2141,2220,2163
+Female,45 - 54 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - 45 to 54 years: - With health insurance coverage,HD02_VD47,284,453,371,268,314,532,486,293,251,287,361,318,358,277
+Female,45 - 54 years,No health insurance coverage,Estimate,Estimate; Female: - 45 to 54 years: - No health insurance coverage,HD01_VD48,97,565,208,83,197,1645,388,135,32,120,144,75,55,56
+Female,45 - 54 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - 45 to 54 years: - No health insurance coverage,HD02_VD48,71,225,137,53,122,430,222,86,37,125,83,69,52,51
+Female,55 - 64 years,All,Estimate,Estimate; Female: - 55 to 64 years:,HD01_VD49,1632,3197,2495,1715,2433,6020,3878,2538,1532,1537,4355,1946,2481,2172
+Female,55 - 64 years,All,Margin of Error,Margin of Error; Female: - 55 to 64 years:,HD02_VD49,272,461,305,243,372,556,445,360,250,266,413,292,371,285
+Female,55 - 64 years,With health insurance coverage,Estimate,Estimate; Female: - 55 to 64 years: - With health insurance coverage,HD01_VD50,1478,2862,2378,1680,2286,5284,3451,2415,1492,1481,4150,1913,2315,2113
+Female,55 - 64 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - 55 to 64 years: - With health insurance coverage,HD02_VD50,270,419,303,243,320,538,415,352,247,253,407,289,372,279
+Female,55 - 64 years,No health insurance coverage,Estimate,Estimate; Female: - 55 to 64 years: - No health insurance coverage,HD01_VD51,154,335,117,35,147,736,427,123,40,56,205,33,166,59
+Female,55 - 64 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - 55 to 64 years: - No health insurance coverage,HD02_VD51,100,205,90,36,168,254,247,91,46,59,118,36,105,59
+Female,65 - 74 years,All,Estimate,Estimate; Female: - 65 to 74 years:,HD01_VD52,1187,1636,1929,1258,1532,3838,2042,1336,958,921,2225,1321,983,1295
+Female,65 - 74 years,All,Margin of Error,Margin of Error; Female: - 65 to 74 years:,HD02_VD52,211,256,255,253,231,348,315,220,147,224,325,222,219,194
+Female,65 - 74 years,With health insurance coverage,Estimate,Estimate; Female: - 65 to 74 years: - With health insurance coverage,HD01_VD53,1187,1636,1929,1258,1479,3723,1991,1336,958,921,2196,1321,983,1295
+Female,65 - 74 years,With health insurance coverage,Margin of Error,Margin of Error; Female: - 65 to 74 years: - With health insurance coverage,HD02_VD53,211,256,255,253,229,342,324,220,147,224,328,222,219,194
+Female,65 - 74 years,No health insurance coverage,Estimate,Estimate; Female: - 65 to 74 years: - No health insurance coverage,HD01_VD54,0,0,0,0,53,115,51,0,0,0,29,0,0,0
+Female,65 - 74 years,No health insurance coverage,Margin of Error,Margin of Error; Female: - 65 to 74 years: - No health insurance coverage,HD02_VD54,118,118,118,118,60,92,60,118,118,118,47,118,118,118
+Female,75 years and over,All,Estimate,Estimate; Female: - 75 years and over:,HD01_VD55,1378,1946,1728,1342,1270,3003,1951,1988,933,1215,3945,1775,1192,1222
+Female,75 years and over,All,Margin of Error,Margin of Error; Female: - 75 years and over:,HD02_VD55,242,303,291,307,249,387,286,314,187,257,406,293,240,199
+Female,75 years and over,With health insurance coverage,Estimate,Estimate; Female: - 75 years and over: - With health insurance coverage,HD01_VD56,1378,1877,1728,1342,1270,3003,1951,1882,933,1215,3924,1747,1192,1222
+Female,75 years and over,With health insurance coverage,Margin of Error,Margin of Error; Female: - 75 years and over: - With health insurance coverage,HD02_VD56,242,294,291,307,249,387,286,287,187,257,405,290,240,199
+Female,75 years and over,No health insurance coverage,Estimate,Estimate; Female: - 75 years and over: - No health insurance coverage,HD01_VD57,0,69,0,0,0,0,0,106,0,0,21,28,0,0
+Female,75 years and over,No health insurance coverage,Margin of Error,Margin of Error; Female: - 75 years and over: - No health insurance coverage,HD02_VD57,118,110,118,118,118,118,118,132,118,118,34,44,118,118

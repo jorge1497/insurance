@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Health insurance</title>
+    <link rel="stylesheet" href="libraries/frameworks/minimal/stylesheets/styles.css">
+    <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+        <link rel=stylesheet href="libraries/widgets/nvd3/css/nv.d3.css"></link>
+<link rel=stylesheet href="libraries/widgets/nvd3/css/rNVD3.css"></link>
+<link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+    <script src="libraries/widgets/nvd3/js/jquery-1.8.2.min.js"></script>
+<script src="libraries/widgets/nvd3/js/d3.v3.min.js"></script>
+<script src="libraries/widgets/nvd3/js/nv.d3.min-new.js"></script>
+<script src="libraries/widgets/nvd3/js/fisheye.js"></script>
+
+  </head>
+  <body>
+    <div class="wrapper">
+<header>
+  <h1>Health insurance</h1>
+  <p>Hartford regional data and indicators</p>
+    <ol>
+    </ol>
+</header>
+
+      <section>
+        <h2>Health insurance indicators</h2>
+<p>Indicators related to health insurance access and coverage will be covered here, primarily the percent of the population with health insurance (which scored highly in the survey).</p>
+
+<h2>Data and limitations</h2>
+
+<p>Data on health insurance coverage is largely available from two sources, both with limitations for local indicators: the U.S. Census Bureau&#39;s American Community Survey, the annual sample survey and the Center for Disease Controls Behavioral Risk Factors Surveillance System (BRFSS). </p>
+
+<p>BRFSS data are available at the state-level and for <a href="http://www.cdc.gov/brfss/gis/gis_maps.htm">metro- and micro-politan statistical areas</a>. In the case of Hartford, the metro area includes the entirety of Hartford, Tolland and Middlesex counties, meaning the results are representative for those three counties together. Maps for indicators are available, but the three metro areas in Connecticut <a href="http://apps.nccd.cdc.gov/gisbrfss/map.aspx">show little variation</a>.</p>
+
+<p>For ACS data, health insurance coverage data is primarily available from the ACS 1-year and 3-year estimates, which excludes <a href="http://www.census.gov/acs/www/guidance_for_data_users/estimates/">towns with fewer than 20,000 people</a> - most of Tolland County and several towns in Hartford County. Data for the metro area or counties is available, but this masks disparities within these regions. Given this limitation, some basic data is still reviewed below.</p>
+
+<h2>What do we already know?</h2>
+
+<p>Below are references for some local, regional and national reports that use health insurance indicators, with some details on how the data is used. </p>
+
+<h3>Local</h3>
+
+<ul>
+<li><a href="http://www.cga.ct.gov/kid/rba/results.asp">CT Kids Report Card</a> has &#39;children with health insurance&#39; as an indicator.</li>
+<li><a href="http://pvpc.org/resources/datastats/state-of-people/stateofthepeople2013.pdf">Pioneer Valley State of the People</a> includes % of households with health insurance in their &#39;Health and Safety&#39; domain, using data from the CDC&#39;s <a href="http://apps.nccd.cdc.gov/brfss/list.asp?cat=HC&amp;yr=0&amp;qkey=8031&amp;state=CT">Behavioral Risk Factors Surveillance System </a>.</li>
+<li><a href="http://www.ct.gov/opm/cwp/view.asp?a=2998&amp;Q=490946">Population Results Working Group</a> includes the &#39;Percent of CT residents without health insurance&#39; as an indicator, but draws data from the Department of Insurance, instead of the Census. </li>
+<li><a href="http://www.ctdatahaven.org/communityindex">Data Haven&#39;s Community Well-Being Index</a> includes the &#39;% of adults 18+ with health insurance&#39; in their index, along with a community health needs assessment. The Greater New Haven region had about 90 percent coverage, about the same as for metro Hartford (91%). The report describes barriers to healthcare in more detail and will be followed with an appendix on access to insurance later in the year. </li>
+<li><a href="http://www.cahs.org/kidscount.asp">KidsCount</a> includes HUSKY A and B child enrollment    data from DSS as an indicator in their Connecticut Data Book. </li>
+<li><a href="http://www.ctvoices.org/">CT Voices for Children</a> plans to include uninsured children as an indicator of &#39;Family Economic Security.&#39; </li>
+</ul>
+
+<h3>Other relevant efforts</h3>
+
+<ul>
+<li><a href="http://fcd-us.org/our-work/child-well-being-index-cwi">The Child Well-Being Index</a> includes the rate of children with health insurance as one indicator of family economic well-being. </li>
+<li><a href="http://www.rifoundation.org/CommunityLeadership/CommunityDashboard/tabid/1157/Default.aspx">The Rhode Island Community Foundation</a> looks at the % of households with health insurance in their &#39;Health&#39; domain at the state level, also using data from the CDC&#39;s BRFSS. </li>
+<li><a href="http://www.futurefundneo.org/whatmatters">What Matters to Metros</a> includes the Percentage of the population who have health insurance as a factor in their model.</li>
+</ul>
+
+<p>Some data on HUSKY enrollment is published via the <a href="http://ctdata.org/catalog#">CTData portal</a>, but the information available is from 2005 or 2007 at the latest. </p>
+
+<h2>Sample results</h2>
+
+<p>For individual towns with data available, we can look at health insurance coverage with a few demographic breakouts. First, coverage rates by gender - coverage appears lower among males in all towns, with the lowest rates in Hartford and East Hartford. </p>
+
+<p><img src="assets/fig/unnamed-chunk-1.png" alt="plot of chunk unnamed-chunk-1"> </p>
+
+<p>Similarly, data by age shows higher rates for the uninsured for 18 - 34 year olds in most towns in the region. </p>
+
+<p><img src="assets/fig/unnamed-chunk-2.png" alt="plot of chunk unnamed-chunk-2"> </p>
+
+<p>For towns with sufficient data, we can look at coverage by race / ethnicity. </p>
+
+<p><img src="assets/fig/unnamed-chunk-3.png" alt="plot of chunk unnamed-chunk-3"> </p>
+
+<p>Similarly, we can look at age groups by race for the region to identify subgroups with lower coverage rates. </p>
+
+<p><img src="assets/fig/unnamed-chunk-4.png" alt="plot of chunk unnamed-chunk-4"> </p>
+
+      </section>
+      <footer>
+        <p>Maintained by <a href="http://github.com/">
+          Scott Gaul
+        </a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by 
+          <a href="https://github.com/orderedlist">orderedlist</a></small>
+        </p>
+      </footer>    </div>
+    <script src="libraries/frameworks/minimal/javascripts/scale.fix.js"></script>
+  </body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>
