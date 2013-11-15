@@ -41,7 +41,7 @@ Below are references for some local, regional and national reports that use heal
 * [The Rhode Island Community Foundation](http://www.rifoundation.org/CommunityLeadership/CommunityDashboard/tabid/1157/Default.aspx) looks at the % of households with health insurance in their 'Health' domain at the state level, also using data from the CDC's BRFSS. 
 * [What Matters to Metros](http://www.futurefundneo.org/whatmatters) includes the Percentage of the population who have health insurance as a factor in their model.
 
-Some data on HUSKY enrollment is published via the [CTData portal](http://ctdata.org/catalog#), but the information available is from 2005 or 2007 at the latest. 
+Some data on HUSKY enrollment is published via the [CTData portal](http://ctdata.org/catalog#), but the information available is from 2005 or 2007 at the latest. CT Voices for Children houses more recent data and provides regular analysis on HUSKY. 
 
 ## Sample results
 
@@ -94,7 +94,7 @@ ggplot(data = B27001age, aes(x = Age, y = value, group=Coverage, fill=Coverage))
   theme_minimal()
 ```
 
-For towns with sufficient data, we can look at coverage by race / ethnicity. 
+For towns with sufficient data, we can look at coverage by race / ethnicity. (The four towns below are the only towns with sufficient data for each of the race / ethnicity groups to meet the ACS data quality requirements.)
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE, fig.width = 9}
 B27001race <- read.csv('B27001-race2.csv')
@@ -119,7 +119,6 @@ ggplot(data = subset(B27001race, variable %in% c("East.Hartford","Hartford","Man
 ```
 
 Similarly, we can look at age groups by race for the region to identify subgroups with lower coverage rates. 
-
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE, fig.width = 9}
 B27001race <- read.csv('B27001-race2.csv')

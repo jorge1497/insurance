@@ -41,7 +41,7 @@ Below are references for some local, regional and national reports that use heal
 * [The Rhode Island Community Foundation](http://www.rifoundation.org/CommunityLeadership/CommunityDashboard/tabid/1157/Default.aspx) looks at the % of households with health insurance in their 'Health' domain at the state level, also using data from the CDC's BRFSS. 
 * [What Matters to Metros](http://www.futurefundneo.org/whatmatters) includes the Percentage of the population who have health insurance as a factor in their model.
 
-Some data on HUSKY enrollment is published via the [CTData portal](http://ctdata.org/catalog#), but the information available is from 2005 or 2007 at the latest. 
+Some data on HUSKY enrollment is published via the [CTData portal](http://ctdata.org/catalog#), but the information available is from 2005 or 2007 at the latest. CT Voices for Children houses more recent data and provides regular analysis on HUSKY. 
 
 ## Sample results
 
@@ -55,13 +55,12 @@ Similarly, data by age shows higher rates for the uninsured for 18 - 34 year old
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2.png) 
 
 
-For towns with sufficient data, we can look at coverage by race / ethnicity. 
+For towns with sufficient data, we can look at coverage by race / ethnicity. (The four towns below are the only towns with sufficient data for each of the race / ethnicity groups to meet the ACS data quality requirements.)
 
 ![plot of chunk unnamed-chunk-3](assets/fig/unnamed-chunk-3.png) 
 
 
 Similarly, we can look at age groups by race for the region to identify subgroups with lower coverage rates. 
-
 
 ![plot of chunk unnamed-chunk-4](assets/fig/unnamed-chunk-4.png) 
 
